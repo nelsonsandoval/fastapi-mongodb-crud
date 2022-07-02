@@ -8,11 +8,15 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+bin/
+lib64/
+lib64
 build/
 develop-eggs/
 dist/
 downloads/
 eggs/
+.idea/
 .eggs/
 lib/
 lib64/
